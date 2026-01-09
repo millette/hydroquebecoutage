@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+	<meta charset="utf-8">
+	<title>Erreur 404 | Hydro-Québec</title>
+    <meta name="description" content="La page que vous tentez d’atteindre est introuvable ou inaccessible en ce moment.">
+
+	<meta property="fb:app_id" content="1755799354699125" />
+	<meta property="og:title" content="Erreur 404" />
+	<meta property="og:description" content="La page que vous tentez d’atteindre est introuvable ou inaccessible en ce moment." />
+	<meta property="og:type" content="article" />
+	<meta property="og:image" content="http://www.hydroquebec.com/data/metas/fb/logo-hq-couleur-fb.png"/>
+
+	<meta property="og:url" content="http://hydroquebec.com/erreurs/impossible.html"/>
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@hydroquebec" />
+	<meta name="twitter:title" content="Erreur 404" />
+	<meta name="twitter:description" content="La page que vous tentez d’atteindre est introuvable ou inaccessible en ce moment." />
+	<!-- <meta name="twitter:image" content="[path/image]" /> -->
+
+	<link rel="canonical" href="http://hydroquebec.com/erreurs/impossible.html" />
+
+	<link rel="alternate" href="http://hydroquebec.com/erreurs/impossible.html" hreflang="fr" />
+	<link rel="alternate" href="http://hydroquebec.com/erreurs/impossible_en.html" hreflang="en" />
+	<!-- FILES  -->
+	<meta property="fb:pages" content="171274232888795" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="/genesyschat/widgets.min.css" type="text/css" rel="stylesheet" />
+<link href="/genesyschat/hqgenesyschat.css" type="text/css" rel="stylesheet" />
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700" rel="stylesheet"
+	type="text/css">
+<link href="/libs/mmenu/dist/css/jquery.mmenu.css" type="text/css" rel="stylesheet" />
+
+<link href="/libs/mmenu/dist/extensions/pagedim/jquery.mmenu.pagedim.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/dist/extensions/pageshadow/jquery.mmenu.pageshadow.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/addons/navbars/jquery.mmenu.navbars.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/addons/setselected/jquery.mmenu.setselected.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/extensions/multiline/jquery.mmenu.multiline.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/addons/screenreader/jquery.mmenu.screenreader.css" type="text/css" rel="stylesheet" />
+<link href="/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.css" rel="stylesheet" />
+
+<link rel="stylesheet" href="/static/css2016/hq-styles.min.css?v=20190527">
+<script src="/static/js2016/gtm-code.min.js"></script>
+<!-- <script src="/static/js2016/gaq-suivi.min.js"></script> -->
+<script src="/genesyschat/hqgenesyschat.js"></script>
+<!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+<script type='text/javascript'>
+    (function(){var g=function(e,h,f,g){
+    this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+    this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+    this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+    this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+    this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+    try{(new g(100,"r","QSI_S_ZN_eJXiNwd5ypqiki9","https://znejxinwd5ypqiki9-hydroquebec.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_eJXiNwd5ypqiki9&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+    </script><div id='ZN_eJXiNwd5ypqiki9'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END WEBSITE FEEDBACK SNIPPET-->
+
+<!-- Système de notification -->
+<style>
+	.hq-banner-notification {
+		font-size: 16px;
+		padding: 12px 16px;
+		border-top: 4px solid transparent;
+	}
+
+	.hq-banner-notification p:last-child {
+		margin-bottom: 0 !important;
+	}
+
+	.hq-banner-notification-titre {
+		font-weight: 700;
+	}
+
+	.hq-banner-notification-text {
+		font-size: 14px;
+	}
+
+	.hq-banner-notification-last-word {
+		white-space: nowrap;
+	}
+
+	.hq-banner-notification-last-word svg {
+		display: initial;
+	}
+
+	.hq-banner-notification-last-word .hq-icone-petite {
+		width: 16px;
+		height: 16px;
+	}
+
+	.hq-banner-notification .wrapper {
+		max-width: 912px;
+		margin-inline: auto;
+	}
+
+	.hq-banner-notification .hq-banner-notification-cta {
+		text-decoration: underline;
+	}
+
+	.hq-banner-notification .hq-banner-notification-cta:hover {
+		text-decoration: none;
+	}
+
+	.hq-banner-notification .has-icon {
+		position: relative;
+	}
+
+	.hq-banner-notification .has-icon .hq-banner-notification-text {
+		margin-left: 30px;
+	}
+
+	.hq-banner-notification .has-icon::before {
+		content: "";
+		width: 20px;
+		aspect-ratio: 1/1;
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 2px;
+	}
+
+	.hq-banner-notification-cta {
+		color: #1224B8 !important;
+	}
+
+	.hq-banner-notification.success {
+		border-color: #008524;
+		background-color: #EAF7EC;
+	}
+
+	.hq-banner-notification.success .has-icon::before {
+		background: url("/themes/banner/assets/images/succes.png") no-repeat;
+	}
+
+	.hq-banner-notification.avertissement {
+		border-color: #EF5500;
+		background-color: #FFFCF6;
+	}
+
+	.hq-banner-notification.avertissement .has-icon::before {
+		background: url("/themes/banner/assets/images/avertissement.png") no-repeat;
+	}
+
+	.hq-banner-notification.erreur {
+		border-color: #BB121A;
+		background-color: #F8E7E8;
+	}
+
+	.hq-banner-notification.erreur .has-icon::before {
+		background: url("/themes/banner/assets/images/erreur.png") no-repeat;
+	}
+
+	.hq-banner-notification.info {
+		border-top: none;
+		background-color: #EAEAEA;
+	}
+
+	.hq-banner-notification.info .has-icon::before {
+		background: url("/themes/banner/assets/images/info.png") no-repeat;
+	}
+
+	.hq-banner-notification.info a {
+		color: #104CCE;
+	}
+
+	@media only screen and (min-width: 1024px) {
+		.hq-banner-notification-text {
+			text-align: center;
+		}
+	}
+</style>
+
+<script>
+	const notifications = {
+		debut: "2023-06-08 09:00",
+		fin: "2026-12-31 23:59",
+		type: "info",
+		titre_fr: "",
+		titre_en: "",
+		message_debut_fr: "",
+		message_debut_en: "The <i>Charter of the French language</i> and its regulations govern the",
+		cta_fr: "",
+		cta_en: "consultation of English&#8209;language content",
+		message_fin_fr: "",
+		message_fin_en: ".",
+		url_fr: "",
+		url_en: "https://www.quebec.ca/en/gouvernement/politiques-orientations/langue-francaise/modernization-charter-french-language",
+		active_page: ["/poweroutages/"],
+		have_icon: false
+	}
+
+
+	document.addEventListener("DOMContentLoaded", function () {
+		afficherBanniere(notifications)
+	});
+
+	function afficherBanniere(notification) {
+		const pageActifs = notification.active_page;
+		const hrefUtilisateur = window.location.href;
+		let isActive = false;
+		const siToutesLesPagesSontActives = pageActifs[0] == '*';
+
+
+		// Trouver si le url de la page est dans la liste des page active
+		pageActifs.forEach(element => {
+			if (hrefUtilisateur.includes(element.trim())) {
+				isActive = true;
+			}
+		});
+
+		// Si URL utilisateur est dans la liste des pages active OU si toutes les pages sont actives
+		if (isActive || siToutesLesPagesSontActives) {
+
+			const bodyWrapperEl = document.getElementById('hq-outer-wrapper');
+			const pageLang = document.documentElement.lang;
+
+			if (`${notification[`url_${pageLang}`]}` != null) {
+
+			}
+
+			// Créer le contenu de la div
+			const notificationLink = `${notification[`url_${pageLang}`]}`;
+			const notificationsHtml = document.createElement('div');
+			notificationsHtml.classList.add('wrapper');
+
+			const notificationText = document.createElement('p');
+			notificationText.classList.add('hq-banner-notification-text');
+
+			const notificationTitle = document.createElement('span');
+			notificationTitle.classList.add('hq-banner-notification-titre');
+
+			notificationsHtml.append(notificationText);
+			notificationText.append(notificationTitle);
+
+			notificationTitle.innerHTML = `${notification[`titre_${pageLang}`]}`;
+			notificationText.innerHTML = `${notification[`message_debut_${pageLang}`]} `;
+
+			// Ajouter le lien si un est disponible:
+			if (notificationLink != null && notificationLink.length != 0) {
+
+				// Vérifier si le lien est un lien externe:
+				const notificationLinkOrigin = new URL(notificationLink);
+				const isExternalURL = notificationLinkOrigin.origin !== location.origin;
+
+				// Créer le lien selon ce qui est disponible dans le json.
+				let notificationCta = `${notification[`cta_${pageLang}`]}`;
+
+				const notificationUrl = document.createElement('a');
+				notificationUrl.classList.add('hq-banner-notification-cta');
+				notificationUrl.setAttribute(`href`, `${notification[`url_${pageLang}`]}`);
+				notificationUrl.setAttribute(`target`, `_blank`);
+
+				// Ajouter icone si lien externe:
+				if (isExternalURL) {
+
+					// Créer un non-breaking space entre le dernier mot et l'icone
+					const words = notificationCta.split(' ');
+					const lastWord = words.pop();
+					const sentenceWithoutLastWord = words.join(' ');
+
+					const externalSvg = pageLang === 'fr' ? "<svg class='hq-icone-petite' aria-label='Ce lien mène à l&#39;extérieur du site d&#39;Hydro-Québec.'><use href='/@hydroquebec/assets/dist/icones/sprite.svg#hq-icone-lien-externe' /></svg>" : "<svg class='hq-icone-petite' aria-label='This link will redirect you to an external site.'><use href='/@hydroquebec/assets/dist/icones/sprite.svg#hq-icone-lien-externe' /></svg>";
+
+					notificationUrl.innerHTML = `${sentenceWithoutLastWord} <span class="hq-banner-notification-last-word"> ${lastWord} ${externalSvg}</span>`
+
+				} else {
+					notificationUrl.innerHTML = notificationCta;
+				}
+
+				notificationText.append(notificationUrl);
+			}
+
+			notificationText.innerHTML += `${notification[`message_fin_${pageLang}`]}`;
+
+			const bannerNotificationEl = document.createElement('div');
+			bannerNotificationEl.classList.add('hq-banner-notification', `${notification.type}`);
+			bannerNotificationEl.setAttribute('aria-label', 'avertissement');
+			bannerNotificationEl.setAttribute('role', 'region');
+			bannerNotificationEl.append(notificationsHtml);
+
+			bodyWrapperEl.insertBefore(bannerNotificationEl, bodyWrapperEl.children[0]);
+
+			if (notification.have_icon) {
+				const wrappelEl = document.querySelector('.hq-banner-notification .wrapper');
+				wrappelEl.classList.add('has-icon');
+			};
+		}
+
+	}
+
+</script>
+	<!-- END FILES -->
+
+	<!-- FILES/SCRIPTS LOCAL -->
+	
+
+	<!-- END FILES/SCRIPTS LOCAL -->
+
+</head>
+<body>
+<div id="hq-outer-wrapper">
+
+	<!-- TopBar -->
+	 <header class="container-fluid" id="hq-main-header">
+	<div class="row hq-nav-desktop">
+		<div class="medium-12 columns">
+			<ul class="ancre-accessibilite">
+				<li><a class="caption" id="skip-to-content" href="#hq-outer-mask">Passer au contenu principal</a></li>
+				<li><a class="caption" id="skip-to-footer" href="#hq-main-footer">Passer au menu de pied de page</a></li>
+			</ul>
+			<nav class="hq-nav-utils" aria-label="Navigation utilitaire">
+				<ul>
+					<li><a href="http://www.hydroquebec.com/tous-nos-sites/">Tous nos sites</a></li>
+					<li><a href="http://nouvelles.hydroquebec.com/fr/">Nouvelles</a></li>
+					<li><a href="https://www.hydroquebec.com/nous-joindre/">Nous joindre</a></li>
+					<li><a href="http://pannes.hydroquebec.com/pannes/">Info-pannes</a></li>
+					<li class="hq-langue"><a href="#" lang="en" hreflang="en" class="changement-langue">English</a></li>
+					<li class="hq-connexion">
+						<a href="https://session.hydroquebec.com/portail/fr/group/clientele/gerer-mon-compte">
+							<svg focusable="false"><use xlink:href="/images2016/hq-icones.svg#hq-me-connecter"></use></svg>Me connecter
+						</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+
+	<div class="row hq-header-trio-bloc">
+		<div class="small-12 columns">
+			<div class="flex-container">
+				<div class="hq-header-duo-bloc">
+					<div class="hq-logo">
+						<a class="" href="http://www.hydroquebec.com/residentiel/"><img alt="Hydro-Quebec" src="/images2016/logo-hydro-quebec-couleur.svg"></a>
+					</div>
+					<nav class="hq-nav-grande-section hq-nav-desktop" id="hq-nav-grande-section">
+						<ul id="hq-nav-grande-section-ul">
+							<li><a href="http://www.hydroquebec.com/residentiel/">Résidentiel</a></li>
+							<li><a href="http://www.hydroquebec.com/affaires/">Affaires</a></li>
+							<li><a href="http://www.hydroquebec.com/a-propos/">À propos</a></li>
+						</ul>
+					</nav>
+
+				</div>
+
+				<div class="hq-recherche-bloc hq-nav-desktop">
+					<a href="https://www.hydroquebec.com/resultats-recherche/" class="recherche"> 
+						Rechercher
+						<svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-recherche"></use></svg>
+						
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- MOBILE -->
+	<div id="hq-menu-visible-mobile">
+		<ul>
+			<li>
+				<a href="#hq-nav-grande-section" class="hamburger hamburger--collapse">
+				  <span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				  </span>
+				  <span class="hq-menu-vl">Menu</span>
+				</a>
+			</li>
+			<li class="hq-connexion">
+				<a href="https://session.hydroquebec.com/portail/fr/group/clientele/gerer-mon-compte">
+				<span class="hq-menu-vl"><svg><use xlink:href="/images2016/hq-icones.svg#hq-me-connecter"></use></svg></span>
+				<span class="hq-menu-vl">Me connecter</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<!-- /MOBILE -->
+</header>
+
+
+	<!-- end TopBar -->
+
+	<div id="hq-outer-mask">
+
+		<!-- CONTENU PAGE -->
+		<div class="row" role="main">
+			<div class="columns small-12">
+				<header class="breadcrumb-bloc">
+					<h1 id="haut">Impossible de trouver la page</h1>
+				</header>
+			</div>
+		</div>
+        <div class="row">
+			<div class="columns small-12">
+				<h2>Erreur 404</h2>
+				<p><a lang="en" href="/erreurs/impossible_en.html" class="lien-pointeur">English version</a></p>
+                <p>Désolé, la page que vous tentez d’atteindre est introuvable ou inaccessible en ce moment.</p>
+                <h2>Causes possibles&nbsp;:</h2>
+                <ul>
+                    <li>La page n’existe plus.</li>
+                    <li>L’adresse de la page a changé.</li>
+                    <li>L’adresse entrée dans la barre d’adresse contient une erreur.</li>
+                    <li>Le lien sur lequel vous avez cliqué est défectueux.</li>
+                </ul>
+                <h2>Suggestions&nbsp;:</h2>
+                <ul class="liste-liens">
+                    <li>Consultez le <a href="/plan-site.html">plan du site</a>.</li>
+                    <li>Réessayez plus tard. Si le problème persiste, veuillez <a href="https://www.hydroquebec.com/sefco2016/fr/problemes-site-web.html">nous le signaler</a>.</li>
+                </ul>
+                <p>Merci de <a href="https://www.hydroquebec.com/sefco2016/fr/problemes-site-web.html">nous signaler un lien brisé ou tout problème</a> qui, selon vous, relève de notre responsabilité.</p>
+            </div>
+        </div>
+
+			<!-- End Contenu -->
+		<!-- END CONTENU PAGE -->
+
+		<!-- FOOTER -->
+		<footer class="container-fluid" id="hq-main-footer">
+	<h2 class="visuallyhidden">Liens importants</h2>
+
+	<div class="row">
+		<div class="columns small-12 medium-3">
+			<img src="/images2016/logo-hydro-quebec-coupe.svg" alt="" class="hq-logo-coupe">
+		</div>
+		<div class="columns small-12 medium-9">
+			<ul class="hq-footer-main-menu hq-footer-main-menu-3-col">
+				<li>
+					<span class="visuallyhidden">Lien vers les sections principales</span>
+					<ul class="hq-section-princ">
+						<li><a href="/residentiel/">Résidentiel</a></li>
+						<li><a href="/affaires/">Affaires</a></li>
+					</ul>
+				</li>
+				<li class="hq-break-col">
+					<span class="visuallyhidden">Lien vers certains sites spécialisés</span>
+					<ul class="hq-autres-sites">
+						<li><a href="https://www.hydroquebec.com/a-propos/">À propos</a></li>
+<li><a href="https://www.hydroquebec.com/residentiel/mieux-consommer/">Mieux consommer</a></li>
+<li><a href="https://www.hydroquebec.com/securite/">Conseils de sécurité</a></li>
+<li><a href="https://nouvelles.hydroquebec.com/">Nouvelles</a></li>
+<li><a href="https://www.hydroquebec.com/nous-joindre/">Nous joindre</a></li>
+<li><a href="https://pannes.hydroquebec.com/pannes/">Info-pannes</a></li>
+<li><a href="https://emploi.hydroquebec.com/">Emplois</a></li>
+<li><a href="https://www.hydroquebec.com/tous-nos-sites/">Tous nos sites</a></li>
+					</ul>
+				</li>
+				<li class="hq-break-col hq-footer__infolettres">
+					<span><a href="https://www.hydroquebec.com/infolettres/">Infolettres</a></span>
+				</li>
+				<li class="	hq-footer-suivez-nous">	
+					<span><a href="https://www.hydroquebec.com/a/medias-sociaux.html">Suivez-nous</a></span>
+					<ul class="sn-reseaux">
+						<li>
+							<a href="https://www.linkedin.com/company/hydro-quebec" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-linkedin"></use></svg><span class="visuallyhidden">Linkedin</span></a>
+						</li>
+						<li>
+							<a href="https://www.youtube.com/hydroquebecvideo" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-youtube"></use></svg><span class="visuallyhidden">Youtube</span></a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/hydroquebec1944/" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-facebook"></use></svg><span class="visuallyhidden">Facebook</span></a>
+						</li>
+						<li>
+							<a href="https://www.instagram.com/hydroquebec/" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-instagram"></use></svg><span class="visuallyhidden">Instagram</span></a>
+						</li>
+						<!--<li><a href="" class="sn-icon"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-rss"></use></svg><span class="visuallyhidden">Flux RSS</span></a></li>-->
+						<li class="sn-twitter">
+							<a href="https://twitter.com/hydroquebec" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-twitter"></use></svg><span class="visuallyhidden">Twitter</span></a>
+							<ul class="sn-twitter-comptes">
+								<li>
+									<a href="https://twitter.com/hydroquebec">@hydroquebec</a> Actualité de l’entreprise
+								</li>
+								<li>
+									<a href="https://twitter.com/client_hydro">@client_hydro</a> Questions d’ordre général sur le service d’électricité
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li class="hq-footer-apps">
+					<span><a href="http://www.hydroquebec.com/application-mobile.html">App mobile</a></span>
+					<ul>
+						<li>
+							<a href="https://itunes.apple.com/ca/app/hydro-quebec/id1045080947?l=fr&mt=8" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-ios"></use></svg><span class="visuallyhidden">Apple Store</span></a>
+						</li>
+						<li>
+							<a href="https://play.google.com/store/apps/details?id=com.hydroquebec.mf_android" class="sn-icone"><svg><use xlink:href="/images2016/hq-icones.svg#hq-icn-android"></use></svg><span class="visuallyhidden">Google Store</span></a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="row">
+		<div class="columns small-12">
+			<ul class="hq-footer-util-menu">
+				<li><a href="/residentiel/">Accueil</a></li>
+				<li><a href="http://www.hydroquebec.com/plan-site.html">Plan du site</a></li>
+				<li><a href="http://www.hydroquebec.com/conditions-confidentialite.html">Conditions et confidentialité</a></li>
+				<li><a href="http://www.hydroquebec.com/accessibilite.html">Accessibilité</a></li>
+				<li><a href="http://www.hydroquebec.com/netiquette-fr.html">Nétiquette</a></li>
+				<li><a href="/documents-donnees/loi-sur-acces/">Demande d'accès et vie privée</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="row">
+		<div class="columns small-12">
+			<div class="hq-footer-copyright">
+				
+				<p>&copy; Hydro-Québec, 1996-2026. Tous droits réservés.</p>
+			</div>
+		</div>
+	</div>
+</footer>
+		<!-- END FOOTER -->
+
+	</div>
+</div>
+
+<!-- SCRIPTS GLOBAL -->
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<!-- Google Analytics events -->
+<!-- <script src="/static/js2016/gaq-evenements.min.js"></script> -->
+<!-- Plugins and scripts -->
+<script src="/static/js2016/plugins.min.js"></script>
+<script src="/static/js2016/hq-scripts.min.js?v=20180514"></script>
+<!-- Menu -->
+<script src="/static/js2016/jquery.hqmenus.min.js"></script>
+<!-- Mobile menu-->
+<script src="/libs/mmenu/js/min/jquery.mmenu.hq.min.js"></script>
+<script src="/libs/mmenu/addons/navbars/jquery.mmenu.navbars.min.js"></script>
+<script src="/libs/mmenu/addons/setselected/jquery.mmenu.setselected.min.js"></script>
+<script src="/libs/mmenu/addons/backbutton/jquery.mmenu.backbutton.min.js"></script>
+<script src="/libs/mmenu/addons/screenreader/jquery.mmenu.screenreader.min.js"></script>
+<script src="/libs/mmenu/addons/keyboardnavigation/jquery.mmenu.keyboardnavigation.min.js"></script>
+<!-- Other plugins and scripts -->
+<script src="/static/js2016/hq-mmenu-config.min.js"></script>
+
+<script src="/genesyschat/hq-chat.js"></script>
+<script src="https://www.hydroquebec.com/libs/hq-utils/ie-detection.js"></script>
+<!-- END SCRIPTS GLOBAL -->
+
+<!-- SCRIPTS LOCAL -->
+<!-- END SCRIPTS LOCAL -->
+
+<!-- SCRIPTS PAGE -->
+<!-- END SCRIPTS PAGE -->
+
+</body>
+</html>
